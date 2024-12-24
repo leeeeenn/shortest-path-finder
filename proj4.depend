@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688640092 source:c:\users\user-hp\desktop\cextrra\proj4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
